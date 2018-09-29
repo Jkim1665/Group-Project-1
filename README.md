@@ -1,1 +1,2 @@
-# Group-Project-1
+# financeApp
+Group project using the news and IEX API.
